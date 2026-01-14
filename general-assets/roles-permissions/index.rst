@@ -22,7 +22,7 @@ These permissions can be set for the tenant:
 
 **Shared links administrator (tenant)**: Can use all Shared links options for the tenant.
 
-.. image:: shared-links-tenant.png
+.. image:: shared-links-tenant-new.png
 
 **Announcements administrator (tenant)**: Can use all announcements options for the tenant.
 
@@ -117,5 +117,6 @@ And these permissions can be set here:
 **Page collection author**: Can edit contents on pages in the page collection, using Write mode.
 
 **Page collection reader**: All colleagues that should be able to read information in a page collection must have the permission “Page collection reader”. 
+
 
 
